@@ -1,0 +1,17 @@
+body{
+  background: white;
+  font-family: 'Noto Serif';
+}
+
+.panelTitle{
+  background-color: grey;
+  color: white;
+}
+
+.panel {
+  height: 500px;
+}
+
+.btn {
+  background-color: grey;
+}
