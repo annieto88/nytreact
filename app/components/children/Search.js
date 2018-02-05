@@ -1,4 +1,3 @@
-// Include React
 var React = require("react");
 
 // Creating the Search component
